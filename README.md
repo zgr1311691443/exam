@@ -1,4 +1,1 @@
-#exam
-# exam
-# exam
 # exam
